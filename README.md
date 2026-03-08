@@ -1,8 +1,6 @@
 # Lists
 
-> [!Example]
-> 
-> https://koushub.github.io/lists/
+## [✨ View Here ✨](https://koushub.github.io/lists/)
 
 List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contributions welcome!
 
