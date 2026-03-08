@@ -1,5 +1,9 @@
 # Lists
 
+> 🎅 Old Saint Nick
+>
+> 'Twas the night before Christmas, when all through the house not a creature was stirring, not even a mouse. The stockings were hung by the chimney with care, in hopes that St. Nicholas soon would be there. The children were nestled all snug in their beds, while visions of sugar plums danced in their heads.
+
 List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contributions welcome!
 
 ✨ Now also available [in CSV](https://github.com/jnv/lists/blob/gh-pages/lists.csv)! ✨
